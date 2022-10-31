@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problem1</string>
+    <string name="et1_hint">Enter Android Version</string>
+    <string name="et2_hint">Enter Android Code Nane</string>
+    <string name="btn_text">ADD</string>
+    <string name="col_version_text">Version</string>
+    <string name="col_code_text">Code Name</string>
+</resources>
